@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Rating800Problem1
+public class Problem1
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -31,7 +31,7 @@ public class Rating800Problem1
 		    else{
 		        System.out.println("YES");
 		    }
-		    sc.close();
 		}
+		sc.close();
 	}
 }
