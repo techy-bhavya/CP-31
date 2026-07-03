@@ -36,3 +36,4 @@ public class Problem1
 		sc.close();
 	}
 }
+
